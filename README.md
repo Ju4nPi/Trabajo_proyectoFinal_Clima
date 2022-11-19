@@ -1,3 +1,12 @@
 # Trabajo_proyectoFinal_Clima
 
-#Introducción
+Este proyecto fue realizado por:
+Juan David Guzmán
+Juan Felipe Pinzon
+German Andres Vivas 
+
+
+
+Introducción
+
+
