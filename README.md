@@ -23,7 +23,7 @@ Este es un editor de codigo fuente desarrollado por Microsoft para Windows, este
         ![image](https://user-images.githubusercontent.com/114431122/202954536-eacb993d-9118-4b77-b628-e698869e3434.png)
 <br>
 # Codigo de la apliación
-Para la creacion del codigo al inicio tuvimos varias dificultades debido a que primero necesitabamos encontrar una fuente de datos donde dejara ver los resultados del estudio del clima de ese mismo dia, a su vez que necesitabamos crear varios listas con los climas de las ciudades 
+Para la creacion del codigo al inicio tuvimos varias dificultades debido a que primero necesitabamos encontrar una fuente de datos donde dejara ver los resultados del estudio del clima de ese mismo dia, a su vez que necesitabamos conocer los diferentes climas de cada una de las ciudades, para esto usamos una aplicación donde se descarga un diccionario con toda la información de la ciudad digitada, luego se hacen funciones que básicamente son todas las operaciones que se necesitan para sacar la información,y por medio de un menú principal se van llamando la función deseada, que esta coge la información, para luego extraer la información requerida y al final imprimirla en la pantalla.
 # Interfaz del ClimaMun
 ## Menu
 Aqui podemos apreciar la interfaz de como funcionara la apliacion, donde uno primero elije cual sera la acción que quiere que realize el programa.
