@@ -58,7 +58,7 @@ def desc():
     clear()
     print(f"{ciudad} se encuentra actualmente con la siguente descripcion: ")
     
-    print(datos_clima.json()["weather"][1]["description"])
+    print(datos_clima.json()["weather"][0]["description"])
     print()
     enter()
     hola()
