@@ -74,7 +74,7 @@ def temp():
 
 def hum():
     clear()
-    print(f"{ciudad} actualmente tiene una hunedad del {datos_clima.json()['main']['humidity']}%")
+    print(f"{ciudad} actualmente tiene una humedad del {datos_clima.json()['main']['humidity']}%")
     print()
     enter()
     hola()
