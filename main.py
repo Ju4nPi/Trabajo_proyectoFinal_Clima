@@ -65,7 +65,7 @@ def desc():
 
 def temp():
     clear()
-    print(f"{ciudad} actualmente tiene una temperatura de {datos_clima.json()['main']['temp']}°C (Se siente como{datos_clima.json()['main']['feels_like']}°C)")
+    print(f"{ciudad} actualmente tiene una temperatura de {datos_clima.json()['main']['temp']}°C (Se siente como {datos_clima.json()['main']['feels_like']}°C)")
     print(f"Temperatura maxima: {datos_clima.json()['main']['temp_max']}°C")
     print(f"Temperatura minima: {datos_clima.json()['main']['temp_min']}°C")
     print()
