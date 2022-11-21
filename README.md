@@ -1,5 +1,5 @@
 # Trabajo_proyectoFinal_Clima
-## ClimaBog 
+## ClimaMun 
 ###### Este proyecto fue realizado por:
     Juan David Guzmán
     Juan Felipe Pinzon
@@ -23,19 +23,20 @@ Este es un editor de codigo fuente desarrollado por Microsoft para Windows, este
         ![image](https://user-images.githubusercontent.com/114431122/202954536-eacb993d-9118-4b77-b628-e698869e3434.png)
 <br>
 # Codigo de la apliación
-Para la creacion del codigo al inicio tuvimos varias dificultades debido a que primero necesitabamos encontrar una fuente de datos donde dejara ver los resultados del estudio del clima de ese mismo dia, a su vez 
-# Interfaz del ClimaBog
+Para la creacion del codigo al inicio tuvimos varias dificultades debido a que primero necesitabamos encontrar una fuente de datos donde dejara ver los resultados del estudio del clima de ese mismo dia, a su vez que necesitabamos crear varios listas con los climas de las ciudades 
+# Interfaz del ClimaMun
 ## Menu
 Aqui
 # Conclusión
-Cuando pensamos en crear esta aplicacion, pensamos que lo mejor seria centrarnos primero en un punto mas especifico como la ciudad de Bogota, pues esta cuenta con climas bastante cambiantes los cuales afectan al diario vivir de los Bogotanos, puesto que afecta a sus actividades diarias y puede hacerlos cambiar de planes a ultimo momento, es por eso que la decidimos crear la aplicación ClimaBog para que la gente tenga una manera segura y confiable de saber que pasara a tiempo real, y como actuar antes para que asi no se vean afectados en su diaro vivir y no tengan que pasar por los duros cambios de clima de la ciudad; Aunque tuvimos varios problemas al final pudimos resolver cada uno de ellos para poder entregar esta aplicacion a la sociedad, hubo un punto donde lo vimos casi imposible pues el clima al ser tan variable es muy dificil arrojar un dato 100% acertado de lo que pasara.
+Cuando pensamos en crear esta aplicacion, pensamos que lo mejor seria centrarnos primero en un punto mas especifico como las ciudades, pues cada una cuenta con climas bastante cambiantes los cuales afectan al diario vivir de las personas de dichas ciudades, puesto que afecta a sus actividades diarias y puede hacerlos cambiar de planes a ultimo momento, es por eso que la decidimos crear la aplicación ClimaMun para que la gente tenga una manera segura y confiable de saber que pasara a tiempo real, y como actuar antes para que asi no se vean afectados en su diaro vivir y no tengan que pasar por los duros cambios de clima de las ciudades; Aunque tuvimos varios problemas al final pudimos resolver cada uno de ellos para poder entregar esta aplicacion a la sociedad, hubo un punto donde lo vimos casi imposible pues el clima al ser tan variable es muy dificil arrojar un dato 100% acertado de lo que pasara.
 Esto nos ayudo a conseguir la experiencia necesaria para afrontar cualquier futuro problema, ademas de ser nuestro primer paso en este mundo de la programacion, aunque hubo errores por el camino eso nunca nos detuvo y gracias a eso al final pudimos terminar esta aplicacion.
 
 # Referencias
-Aqui se puede evidenciar los sitios donde sacamos la infrmación:
--ecured. obetenido de https://www.cursosaula21.com/que-es-p ython
--ecured. obtenido de https://recluit.com/que-es-visual-studio-code/#.Y3uXo3bMLIV
--
--
+Aqui se puede evidenciar los sitios donde sacamos la infrmación.
+
+        -obetenido de https://www.cursosaula21.com/que-es-p ython
+        -obtenido de https://recluit.com/que-es-visual-studio-code/#.Y3uXo3bMLIV
+
+
         
 
