@@ -26,7 +26,10 @@ Este es un editor de codigo fuente desarrollado por Microsoft para Windows, este
 Para la creacion del codigo al inicio tuvimos varias dificultades debido a que primero necesitabamos encontrar una fuente de datos donde dejara ver los resultados del estudio del clima de ese mismo dia, a su vez que necesitabamos crear varios listas con los climas de las ciudades 
 # Interfaz del ClimaMun
 ## Menu
-Aqui
+<br>
+        ![image](https://user-images.githubusercontent.com/114431122/203177519-54a730f1-161c-4907-8a8e-01f4282081ad.png)
+<br>
+Aqui podemos apreciar la interfaz de como funcionara la apliacion, donde uno primero elije cual sera la acción que quiere que realize el programa.
 # Conclusión
 Cuando pensamos en crear esta aplicacion, pensamos que lo mejor seria centrarnos primero en un punto mas especifico como las ciudades, pues cada una cuenta con climas bastante cambiantes los cuales afectan al diario vivir de las personas de dichas ciudades, puesto que afecta a sus actividades diarias y puede hacerlos cambiar de planes a ultimo momento, es por eso que la decidimos crear la aplicación ClimaMun para que la gente tenga una manera segura y confiable de saber que pasara a tiempo real, y como actuar antes para que asi no se vean afectados en su diaro vivir y no tengan que pasar por los duros cambios de clima de las ciudades; Aunque tuvimos varios problemas al final pudimos resolver cada uno de ellos para poder entregar esta aplicacion a la sociedad, hubo un punto donde lo vimos casi imposible pues el clima al ser tan variable es muy dificil arrojar un dato 100% acertado de lo que pasara.
 Esto nos ayudo a conseguir la experiencia necesaria para afrontar cualquier futuro problema, ademas de ser nuestro primer paso en este mundo de la programacion, aunque hubo errores por el camino eso nunca nos detuvo y gracias a eso al final pudimos terminar esta aplicacion.
