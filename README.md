@@ -33,7 +33,7 @@ Esto nos ayudo a conseguir la experiencia necesaria para afrontar cualquier futu
 
 # Referencias
 Aqui se puede evidenciar los sitios donde sacamos la infrmación:
--ecured. obetenido de https://www.cursosaula21.com/que-es-p ython/
+-ecured. obetenido de https://www.cursosaula21.com/que-es-p ython
 -ecured. obtenido de https://recluit.com/que-es-visual-studio-code/#.Y3uXo3bMLIV
 -
 -
