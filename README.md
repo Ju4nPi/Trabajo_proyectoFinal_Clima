@@ -30,7 +30,21 @@ Aqui podemos apreciar la interfaz de como funcionara la apliacion, donde uno pri
 <br>
         ![Menu](https://user-images.githubusercontent.com/114431122/203177519-54a730f1-161c-4907-8a8e-01f4282081ad.png)
 <br>
-
+## Ubicación
+Despues de seleccionar la acción nos pedira que ingresemos nuestra ciudad; esta puede ser de cualquier parte del mundo.
+<br>
+        ![image](https://user-images.githubusercontent.com/114431122/203178772-c4495d36-d207-4513-94f6-46b3a1980dbf.png)
+<br>
+## Descripción final
+Cuando ya terminemos de ingresar nuestra ubicacion, la aplicacion nos arrojara los datos exactos del clima de ese mismo dia a cualquier hora.
+<br>
+        ![image](https://user-images.githubusercontent.com/114431122/203179061-e4583c21-a8bd-4da7-81e1-51485a161fe4.png)
+<br>
+## ¿Como volver?
+Ya cuando hayamos terminado de ver nuestro pronostico del clima, le daremos a enter y la aplicacion soltara un mensaje de agradecimiento, seguido a esto volveremos a presionar enter para volver al menu principal.
+<br>
+        ![image](https://user-images.githubusercontent.com/114431122/203179258-0fe87115-ab4c-4674-ad21-0de0a16bbdaa.png)
+<br>
 # Conclusión
 Cuando pensamos en crear esta aplicacion, pensamos que lo mejor seria centrarnos primero en un punto mas especifico como las ciudades, pues cada una cuenta con climas bastante cambiantes los cuales afectan al diario vivir de las personas de dichas ciudades, puesto que afecta a sus actividades diarias y puede hacerlos cambiar de planes a ultimo momento, es por eso que la decidimos crear la aplicación ClimaMun para que la gente tenga una manera segura y confiable de saber que pasara a tiempo real, y como actuar antes para que asi no se vean afectados en su diaro vivir y no tengan que pasar por los duros cambios de clima de las ciudades; Aunque tuvimos varios problemas al final pudimos resolver cada uno de ellos para poder entregar esta aplicacion a la sociedad, hubo un punto donde lo vimos casi imposible pues el clima al ser tan variable es muy dificil arrojar un dato 100% acertado de lo que pasara.
 Esto nos ayudo a conseguir la experiencia necesaria para afrontar cualquier futuro problema, ademas de ser nuestro primer paso en este mundo de la programacion, aunque hubo errores por el camino eso nunca nos detuvo y gracias a eso al final pudimos terminar esta aplicacion.
