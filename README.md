@@ -32,10 +32,10 @@ Cuando pensamos en crear esta aplicacion, pensamos que lo mejor seria centrarnos
 Esto nos ayudo a conseguir la experiencia necesaria para afrontar cualquier futuro problema, ademas de ser nuestro primer paso en este mundo de la programacion, aunque hubo errores por el camino eso nunca nos detuvo y gracias a eso al final pudimos terminar esta aplicacion.
 
 # Referencias
-
-
-
-
-
+Aqui se puede evidenciar los sitios donde sacamos la infrmación:
+-ecured. obetenido de https://www.cursosaula21.com/que-es-python/
+-ecured. obtenido de https://recluit.com/que-es-visual-studio-code/#.Y3uXo3bMLIV
+-
+-
         
 
