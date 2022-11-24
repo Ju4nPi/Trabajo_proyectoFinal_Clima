@@ -1,53 +1,57 @@
 # Trabajo_proyectoFinal_Clima
 ## ClimaMun 
-###### Este proyecto fue realizado por:
+###### Proyecto realizado por:
     Juan David Guzmán
     Juan Felipe Pinzon
     German Andres Vivas
 # Introducción 
-¿Alguna vez se han preguntado cuando llovera, si habra sol, que ropa debo llevar para no mojarse?
-Esto ya no representa un problema, con esta aplicacion ya no es necesario adivinar el clima que hara ese dia, ya que la idea de crear esta es que las personas puedan mirar con confianza que clima habra y  en que lugar especificamente esto sucedera para que esten preparadas para posibles inconvenientes en su dia.
-En este repositorio vamos a ver como crear una aplicacion que nos permitora ver el clima que habra ese dia ademas de que este te dira en que partes especificas llovera o hara sol para que asi estes preparado para cualquier eventualidad, pero antes de eso ¿saben como es posible saber que clima hara?, para saber el clima lo primero que se hace es recopilar datos del dia, como por ejemplo a que temperatura estamos, la humedad, ademas del uso de aparatos como los globos meteorologicos que luego son recojidos para juntar toda esta informacion para luego ser almacenada en una base de datos por la cual se interpretarn los datos obteniendo  el clima de ese dia, despues estos se suben a una nube para que las personas tenga la posibilidad de acceder a esta información, sin mas preanbulo empezemos, pero antes.
+¿Alguna te has preguntado cuando lloverá o habrá sol para saber que ropa llevar?
+Esto ya no representa un problema, debido a esta aplicación , la cual permite predecir el clima que se producirá ese día.
+La idea con la creación de esta es que las personas puedan mirar  al cielo con confianza y saber que clima habrá y en qué lugar específicamente , esto con la intención de que se encuentren preparadas para posibles eventualidades en su día.
+
+En este repositorio veremos el paso a paso de esta aplicación, que permite visualizar el clima que se producirá ese día además de que expone en qué lugar en específico lloverá o hará un día soleado para así estar preparado ante cualquier eventualidad. Pero antes de esto ¿ cómo es posible conocer que clima hará?, para poder hacer esto primero se deben recopilar datos del día, ( temperatura , humedad ). además del uso de instrumentos como lo son los globos meteorológicos que luego son recogidos para adjuntar toda la información recopilada para luego ser almacenada en una base de datos, en la cual se interpretan los datos, obteniendo el clima de ese dia,para después subirlo a una nube para tener la posibilidad de acceder a esta información.
+
 # ¿Por que el clima?
-La desicion de hacer una aplicacion que nos permita ver el clima surgue de una propuesta nuestra para ayudar a las personas a estar prevenidas a los cambios repentinos del clima, ademas de que puedan tener otras opciones a la hora de acceder a esta informacion, tambien por que nos parecio interesante eh importante dar a conocer esta informacion a la mayor cantidad de personas aparte de las otras formas de informacion acerca de este tema.
+La decisión de crear una aplicación que permite visualizar el clima surge a la necesidad de ayudar a las personas a anteponerse a los repentinos cambios de este, además de poseer otras opciones a la hora de acceder a esta información de una manera efectiva e innovadora
 # Programas usados:
 ## Python
-Python es un lenguaje de programacion muy sencillo de comprender y que es imprescindible para cualquier persona que quiera entrar al mundo de la programacion ya que este nos da mucha libertad y cuenta con la versatilidad de ser uno de los programas mas usados para casi todo, pues se trata de un lenguaje multiplataforma de codigo abierto por lo que permite desarrollar software sin limites, por eso es que decidimos usar python para el desarrollo de este proyecto, en el editor Visual Studio Code.
+Python es un lenguaje de programación muy sencillo de comprender y que es imprescindible para cualquier persona que quiera entrar al mundo de la programación ya que este nos da mucha libertad y cuenta con la versatilidad de ser uno de los programas más usados para casi todo, pues se trata de un lenguaje multiplataforma de código abierto por lo que permite desarrollar software sin límites, por eso es que decidimos usar Python para el desarrollo de este proyecto, en el editor Visual Studio Code.
 <br>
             ![image](https://user-images.githubusercontent.com/114431122/202952308-50626989-c770-4965-be67-bfcaa7dc8d7a.png)
 <br>
 
 ## Visual Studio Code
-Este es un editor de codigo fuente desarrollado por Microsoft para Windows, este se puede usar para ver, editar, ejecutar codigo fuente para el desarrollo web o desarrollo de aplicaciones, este puede automatizar procesos haciendo que se pueda ahorrar tiempo y por lo tanto las dificultades de un problema, esta disañado para funcionar con cantidades grandes de datos, pues en su biblioteca hay un amplio repertorio de recursos, este cuenta con la posibilidad de dar un vistaso al codigo en el navegador para luego compilarlo en a tiempo real, fue usado como nuestro editor de texto para el desarrollo de la aplicacion.
+Editor de código fuente desarrollado por Microsoft para Windows, puede usarse para ver, editar, ejecutar código fuente para el desarrollo web o desarrollo de aplicaciones, este puede automatizar procesos haciendo que se pueda ahorrar tiempo y por lo tanto las dificultades de un problema, esta diseñado para funcionar con cantidades grandes de datos, pues en su biblioteca hay un amplio repertorio de recursos, este cuenta con la posibilidad de dar un vistazo al código en el navegador para luego compilarlo en a tiempo real, fue usado como nuestro editor de texto para el desarrollo de la aplicación.
 <br>
         ![image](https://user-images.githubusercontent.com/114431122/202954536-eacb993d-9118-4b77-b628-e698869e3434.png)
 <br>
 # Codigo de la apliación
-Para la creacion del codigo al inicio tuvimos varias dificultades debido a que primero necesitabamos encontrar una fuente de datos donde dejara ver los resultados del estudio del clima de ese mismo dia, a su vez que necesitabamos conocer los diferentes climas de cada una de las ciudades, para esto usamos una aplicación donde se descarga un diccionario con toda la información de la ciudad digitada, luego se hacen funciones que básicamente son todas las operaciones que se necesitan para sacar la información,y por medio de un menú principal se van llamando la función deseada, que esta coge la información, para luego extraer la información requerida y al final imprimirla en la pantalla.
+Para la creacion del codigo se tuvieron ciertas dificultades debido a que se requeria encontrar una fuente de datos donde se pudiera acceder a los resultados del estudio del clima de ese mismo dia, a su vez  necesitabamos conocer los diferentes climas de cada  ciudad, para esto fue necesaria una aplicación donde se descargara un diccionario con toda la información relevante de la ciudad digitada para despues realizar funciones ( todas las operaciones impresindibles para obtener la información ,y mediante un menú principal se van llamando la función deseada, la cual recopila la información para luego extraerla y finalmente imprimirla en la pantalla.
 # Interfaz del ClimaMun
 ## Menu
-Aqui podemos apreciar la interfaz de como funcionara la apliacion, donde uno primero elije cual sera la acción que quiere que realize el programa.
+Aqui podemos apreciar la interfaz de como funcionara la apliacion, donde primero se elije cual sera la acción que requiere que realize el programa.
 <br>
         ![Menu](https://user-images.githubusercontent.com/114431122/203177519-54a730f1-161c-4907-8a8e-01f4282081ad.png)
 <br>
 ## Ubicación
-Despues de seleccionar la acción nos pedira que ingresemos nuestra ciudad; esta puede ser de cualquier parte del mundo.
+Despues de seleccionar dicha acción nos pedira que ingresemos nuestra ciudad;( puede ser de cualquier parte del mundo ).
 <br>
         ![image](https://user-images.githubusercontent.com/114431122/203178772-c4495d36-d207-4513-94f6-46b3a1980dbf.png)
 <br>
 ## Descripción final
-Cuando ya terminemos de ingresar nuestra ubicacion, la aplicacion nos arrojara los datos exactos del clima de ese mismo dia a cualquier hora.
+Cuando ya terminamos de ingresar nuestra ubicacion, la aplicacion nos arroja los datos precisos del clima de ese dia a cualquier hora.
 <br>
         ![image](https://user-images.githubusercontent.com/114431122/203179061-e4583c21-a8bd-4da7-81e1-51485a161fe4.png)
 <br>
 ## ¿Como volver?
-Ya cuando hayamos terminado de ver nuestro pronostico del clima, le daremos a enter y la aplicacion soltara un mensaje de agradecimiento, seguido a esto volveremos a presionar enter para volver al menu principal.
+Ya cuando hayamos terminado de ver nuestro pronostico del clima, le daremos a enter y la aplicacion mostrara un mensaje de agradecimiento, seguido a esto volveremos a presionar enter para volver al menu principal.
 <br>
         ![image](https://user-images.githubusercontent.com/114431122/203179258-0fe87115-ab4c-4674-ad21-0de0a16bbdaa.png)
 <br>
 # Conclusión
-Cuando pensamos en crear esta aplicacion, pensamos que lo mejor seria centrarnos primero en un punto mas especifico como las ciudades, pues cada una cuenta con climas bastante cambiantes los cuales afectan al diario vivir de las personas de dichas ciudades, puesto que afecta a sus actividades diarias y puede hacerlos cambiar de planes a ultimo momento, es por eso que la decidimos crear la aplicación ClimaMun para que la gente tenga una manera segura y confiable de saber que pasara a tiempo real, y como actuar antes para que asi no se vean afectados en su diaro vivir y no tengan que pasar por los duros cambios de clima de las ciudades; Aunque tuvimos varios problemas al final pudimos resolver cada uno de ellos para poder entregar esta aplicacion a la sociedad, hubo un punto donde lo vimos casi imposible pues el clima al ser tan variable es muy dificil arrojar un dato 100% acertado de lo que pasara.
-Esto nos ayudo a conseguir la experiencia necesaria para afrontar cualquier futuro problema, ademas de ser nuestro primer paso en este mundo de la programacion, aunque hubo errores por el camino eso nunca nos detuvo y gracias a eso al final pudimos terminar esta aplicacion.
+Al pensar en la creacion de esta aplicacion, nos enfocamos en un punto especifico ( las ciudades por ejemplo ) , ya que cada una cuenta con un clima diferente y versatil, el cual afecta el diario vivir de las personas en  estas ciudades, es por esto que ldecidimos crear  ClimaMun la cual ofrece una manera eficaz y confiable de saber el clima en tiempo real.
+ A pesar de atravesar por ciertas dificultades finalmente se pudieron resolver ,para poder entregar un producto de calidad, 
+Esto nos ayudo a conseguir la experiencia necesaria para afrontar cualquier futuro problema, ademas de ser nuestro primer paso en este mundo de la programacion.
 
 # Referencias
 Aqui se puede evidenciar los sitios donde sacamos la información.
